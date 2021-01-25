@@ -1,0 +1,28 @@
+.CF	{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
+.CF	img	{
+	display: flex;
+	width: 50%;
+}
+
+.CF	p	{
+	display: flex;
+	width: 45%;
+	flex-wrap: wrap;
+}
+
+.Des	{
+	display: flex;
+	width: 90%;
+}
+
+.Des p{
+	display: flex;
+	width: 80%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
