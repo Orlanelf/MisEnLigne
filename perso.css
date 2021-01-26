@@ -81,8 +81,16 @@ h2	{
 
 .banner {
 	margin: auto;
-	height: 650px;
-
+	height: 700px;
 }
+
+.perso {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+
+	
+}
+
 
 }
