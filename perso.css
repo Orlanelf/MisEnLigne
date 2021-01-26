@@ -84,6 +84,11 @@ h2	{
 	height: 700px;
 }
 
+.banner-content h1{
+	width: 100%;
+	justify-content: center;
+}
+
 .perso {
 	display: flex;
 	width: 100%;
