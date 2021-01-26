@@ -21,3 +21,7 @@ h1	{
 	height: 400px;
 	border: 1px	solid white;
 }
+
+.row card-text {
+	background-color: #ffdde1;
+}
