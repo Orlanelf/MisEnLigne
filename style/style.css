@@ -20,6 +20,7 @@
 
               
 .cards {
+  width: 100%;
   padding: 15px 0;
   margin: auto;
   display: flex;
@@ -27,7 +28,7 @@
 }
 
 .card-element {
-  width: 30%;
+  width: 100%;
   background-size: cover;
   background-position: center;
   height: 180px;
@@ -90,6 +91,11 @@ body{
   margin: auto;
   height: 700px;
 
+}
+
+.cards {
+  flex-wrap: wrap;
+  padding: 15px;
 }
 
 }
