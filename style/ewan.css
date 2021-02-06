@@ -7,7 +7,10 @@ h1	{
 	color: black;
 }
 
-
+h5{
+	display: flex;
+	justify-content: center;
+}
 
 .pic1 {
 	display: flex;
