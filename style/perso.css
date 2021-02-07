@@ -3,7 +3,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
-  height: 550px;
+  height: 450px;
   padding: 100px 50px;
 }
 
@@ -49,7 +49,6 @@
 
 h1 {
 	display: flex;
-	font-size: 50px;
 	font-family: lucida handwriting;
 	justify-content: center;
 	color: white;
@@ -98,5 +97,9 @@ h2	{
 	
 }
 
+h1{
+
+	margin:auto;
+}
 
 }
