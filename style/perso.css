@@ -49,6 +49,7 @@
 
 h1 {
 	display: flex;
+	margin:auto;
 	font-family: lucida handwriting;
 	justify-content: center;
 	color: white;
