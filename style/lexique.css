@@ -1,3 +1,7 @@
 body {
 	background-color: lightgrey;
 }
+
+.accordion-body {
+	background-color: black;
+}
